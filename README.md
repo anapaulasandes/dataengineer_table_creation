@@ -44,3 +44,8 @@ Here I opted for using pyspark and take a vantage of parallem processing.
 Create this data model from the initial datasets described avobe:
 
 ![alt_text](new_datamodel.PNG)
+
+## Example of Analysis with Data Model:
+- Check temperature on arrival date of a passanger 
+- Check temperature on port on the date level
+- Correlate passanger and find out if there are indiations of preference regarding temperature for choosing fligh date
