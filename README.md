@@ -1,3 +1,9 @@
+# Udacity Data Engineering Project
+
+This project makes use of pyspark to extract data and organize then into a snowflack schema database composed of fact and dimention tables.
+
+
+
 
 # US Immigration Data
 
